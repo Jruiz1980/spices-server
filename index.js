@@ -13,7 +13,7 @@ connectDB();
 
 app.use(cors(
     {
-        origin: 'https://spices-frontend.onrender.com'
+        origin: 'https//localhost:5000'
     }
 ));
 
