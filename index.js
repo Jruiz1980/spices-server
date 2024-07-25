@@ -13,7 +13,7 @@ connectDB();
 
 app.use(cors(
     {
-        origin: 'https//localhost:5000'
+        origin: 'https://localhost:5000'
     }
 ));
 
